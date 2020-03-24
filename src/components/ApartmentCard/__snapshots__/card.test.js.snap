@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should not have regressed 1`] = `
+<Card>
+  <Image
+    as="img"
+    ui={false}
+    wrapped={true}
+  />
+  <CardContent>
+    <CardHeader
+      className="cardHeader"
+    />
+    <CardDescription>
+      <h5
+        className="location"
+      >
+        <br />
+         
+        <br />
+         
+        <br />
+         | No. of Bedrooms: 
+         | No. of Guests: 
+        <br />
+        <br />
+        <Rating
+          clearable="auto"
+          disabled={true}
+          maxRating={5}
+        />
+      </h5>
+    </CardDescription>
+  </CardContent>
+  <CardContent
+    extra={true}
+  >
+    <Link
+      className="view"
+      href="/apartment"
+    >
+      View Details
+    </Link>
+  </CardContent>
+</Card>
+`;

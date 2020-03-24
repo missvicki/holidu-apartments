@@ -8,6 +8,7 @@ exports[`Home should not have regressed 1`] = `
     id="content"
   >
     <Header />
+    <Connect(Main) />
   </div>
   <Footer />
 </div>

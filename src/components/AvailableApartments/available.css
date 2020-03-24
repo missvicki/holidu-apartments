@@ -1,0 +1,23 @@
+.available__container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    background: teal;
+    padding: 15px;
+}
+  
+.left__results {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "Roboto";
+}
+.available-results{
+    color: white;
+}
+
+.results__title {
+    font-size: 2rem;
+    font-weight: bold;
+}
