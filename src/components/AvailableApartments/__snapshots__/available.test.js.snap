@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Available should not have regressed 1`] = `
+<div
+  className="available__container"
+>
+  <div
+    className="left__results"
+  >
+    <div
+      className="results__title"
+    >
+      Available Apartments
+    </div>
+    <div
+      className="available-results"
+    >
+      Showing undefined results
+    </div>
+  </div>
+</div>
+`;
